@@ -21,7 +21,7 @@
   },
   "login_pagesNaviPrompt": {
     "label": "Aufforderungstext, weitere Seiten einer Unit auszuwählen, z. B. 'Wähle hier andere Seiten dieser Aufgabe:'",
-    "defaultvalue": ""
+    "defaultvalue": "Weitere Seiten:"
   },
   "login_bookletSelectPromptOne": {
     "label": "Aufforderung, den einen gefundenen Test anzuklicken (auf Schalter klicken)",
